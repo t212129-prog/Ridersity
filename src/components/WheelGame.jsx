@@ -329,7 +329,7 @@ const WheelGame = ({ tier, onBack }) => {
                         <div
                             className="relative flex flex-col items-center overflow-hidden shadow-2xl animate-[popIn_0.4s_ease-out_forwards]"
                             style={{
-                                width: '250px',
+                                width: '300px',
                                 height: '340px',
                                 backgroundColor: '#ffffff',
                                 border: '5px solid #b30d0d',
